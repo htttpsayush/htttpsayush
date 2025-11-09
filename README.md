@@ -14,13 +14,12 @@
 - 🌐 LET’S CONNECT:
   - 💬 ALWAYS OPEN TO COLLABORATIONS ON OPEN SOURCE AND AI/ML PROJECTS!
 
-
 ## 🧠 Focus Areas
 AI/ML | Open Source | Sports Analytics
 
 ## 🛠️ Tech Stack 
 
-### <p align="center">  💻 Programming Languages </p>
+### <p align="center"> 💻 Programming Languages </p>
 <p align="center">
   <img src="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" alt="Python" height="40" />
   <img src="https://camo.githubusercontent.com/a8c24c0c69005509721bcfa06b7818b2a732447e11f1a36c8cbda6937e533cd3/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667" alt="Java" height="40" />
@@ -28,13 +27,13 @@ AI/ML | Open Source | Sports Analytics
   <img src="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="JavaScript" height="40" />
 </p>
 
-###  <p align="center"> 🌐 Frontend </p>
+### <p align="center"> 🌐 Frontend </p>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="40" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="40" />
 </p>
 
-### <p align="center">  🖥️ Backend </p>
+### <p align="center"> 🖥️ Backend </p>
 <p align="center">
   <img src="https://camo.githubusercontent.com/e65f8a131aec32c8038012cbd89c65dbce110c66227bef4bf0b0e23ffe0f3ad8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646a616e676f2d69636f6e2e737667" alt="Django" height="40" />
   <img src="https://camo.githubusercontent.com/3ed284d0ecd9fcccabf0711e2cad6bbec412e417bcfb1da25502a1ed9adbaf78/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" alt="MySQL" height="40" />
@@ -56,7 +55,12 @@ AI/ML | Open Source | Sports Analytics
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=htttpsayush&theme=github_dark&hide_border=true&cache_seconds=86400" alt="htttpsayush's GitHub Streak" width="49%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=htttpsayush&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="AYUSH Jr.'s GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=htttpsayush&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="AYUSH Jr.'s GitHub Trophies" width="49%" />
+</p>
+
+## 🏅 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=htttpsayush&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="AYUSH Jr.'s GitHub Achievements" />
 </p>
 
 ## 🔗 Connect with Me
