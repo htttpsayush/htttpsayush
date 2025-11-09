@@ -55,7 +55,6 @@ AI/ML | Open Source | Sports Analytics
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=htttpsayush&theme=github_dark&hide_border=true&cache_seconds=86400" alt="htttpsayush's GitHub Streak" width="49%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=htttpsayush&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="AYUSH Jr.'s GitHub Trophies" width="49%" />
 </p>
 
 ## 🏅 Achievements
@@ -75,6 +74,9 @@ AI/ML | Open Source | Sports Analytics
 
 ## 💬 Quote
 > Just like in football, in coding too — every pass counts, every goal matters.
+.
+.
+.
 
 <div align="center">
   <img src="https://private-user-images.githubusercontent.com/74038190/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI3MTg1NzYsIm5iZiI6MTc2MjcxODI3NiwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODUzNDgtNDkxZTNlNDQtMTFhMC00ODdhLWIwN2ItNzE3ZjY3N2JiZTRhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTA5VDE5NTc1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFjYWE3OTAzNDBjMjhlNjAyNWQyYTIzMDA5MTc3ODI5OGI5NThjYzRlZDJmNGIxNjNlZmIxNjdlMjk4OWE1NGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ZNNTJn1IpkcH-XCkYpqg-q4o-oSF_G7BbSoxYvD0jns" alt="Bottom Line" width="100%" />
