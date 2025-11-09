@@ -60,7 +60,7 @@ AI/ML | Open Source | Sports Analytics
 </p>
 
 ## 🔗 Connect with Me
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/ayush-kumar-singh-942990305" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="LinkedIn"/>
   </a>
