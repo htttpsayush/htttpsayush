@@ -1,12 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm AYUSH Jr.</h1>
 <h3 align="center">SOFTWARE ENGINEER</h3>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=htttpsayush">
-    <img src="https://komarev.com/ghpvc/?username=htttpsayush&label=Profile%20views&color=00FFFF&style=flat-square" alt="htttpsayush's profile views" />
-  </a>
-</p>
-
 <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
@@ -25,7 +19,7 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+###                            💻 Programming Languages
 <p align="center">
   <img src="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" alt="Python" height="40" />
   <img src="https://camo.githubusercontent.com/a8c24c0c69005509721bcfa06b7818b2a732447e11f1a36c8cbda6937e533cd3/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667" alt="Java" height="40" />
@@ -84,7 +78,7 @@
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/chamidudili" target="_blank">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="CRISTIANO RONALDO" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
   </a>
 </p>
 
