@@ -1,4 +1,4 @@
 # Hi there 👋
 I'm <AYUSH Jr.>!
 
-![Snake animation]![Description](https://raw.githubusercontent.com/<username>/<repo>/main/image.svg)
+![Snake](https://raw.githubusercontent.com/<htttpsayush>/<repo>/main/snake.gif)
