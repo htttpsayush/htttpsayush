@@ -1,12 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm AYUSH Jr.</h1>
 <h3 align="center">SOFTWARE ENGINEER</h3>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=htttpsayush">
-    <img src="https://komarev.com/ghpvc/?username=htttpsayush&label=Profile%20views&color=00FFFF&style=flat-square" alt="htttpsayush's profile views" />
-  </a>
-</p>
-
 <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
