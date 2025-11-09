@@ -29,7 +29,7 @@
 
 ### 🌐 Frontend
 <p align="center">
-  <img src="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f68746d6c2d69636f6e2e737667" alt="HTML" height="40" />
+  <img src="https://[camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f68746d6c2d69636f6e2e737667](https://camo.githubusercontent.com/10c7a8fa2cf317cc7c4af6f13efac086a9f0ea010f0dfc746c94e5cde310b339/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)" alt="HTML" height="40" />
   <img src="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373732d69636f6e2e737667" alt="CSS" height="40" />
 </p>
 
@@ -76,11 +76,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/chamidudili" target="_blank">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="CRISTIANO RONALDO" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
-  </a>
-</p>
 
 <div align="center">
   <img src="https://private-user-images.githubusercontent.com/74038190/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI3MTg1NzYsIm5iZiI6MTc2MjcxODI3NiwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODUzNDgtNDkxZTNlNDQtMTFhMC00ODdhLWIwN2ItNzE3ZjY3N2JiZTRhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTA5VDE5NTc1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFjYWE3OTAzNDBjMjhlNjAyNWQyYTIzMDA5MTc3ODI5OGI5NThjYzRlZDJmNGIxNjNlZmIxNjdlMjk4OWE1NGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ZNNTJn1IpkcH-XCkYpqg-q4o-oSF_G7BbSoxYvD0jns" alt="Bottom Line" width="100%" />
