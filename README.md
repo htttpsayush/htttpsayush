@@ -87,4 +87,5 @@ AI/ML | Open Source | Sports Analytics
 
 <div align="center">
   <img src="https://private-user-images.githubusercontent.com/74038190/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI3MTg1NzYsIm5iZiI6MTc2MjcxODI3NiwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODUzNDgtNDkxZTNlNDQtMTFhMC00ODdhLWIwN2ItNzE3ZjY3N2JiZTRhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTA5VDE5NTc1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFjYWE3OTAzNDBjMjhlNjAyNWQyYTIzMDA5MTc3ODI5OGI5NThjYzRlZDJmNGIxNjNlZmIxNjdlMjk4OWE1NGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ZNNTJn1IpkcH-XCkYpqg-q4o-oSF_G7BbSoxYvD0jns" alt="Bottom Line" width="100%" />
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Bottom Line" />
 </div>
