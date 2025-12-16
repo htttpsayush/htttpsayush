@@ -1,7 +1,7 @@
 <h1 align="center">Hey 🖐️ I'm AYUSH Jr. <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"></h1>
 <h3 align="center">SOFTWARE ENGINEER</h3>
 
-<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" alt="Banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" alt="Banner" width="100%"/>
 
 ## 📌 About Me
 - HEY THERE! 👋 I'M @htttpsayush — A PASSIONATE B.TECH 3RD-YEAR STUDENT WHO LOVES EXPLORING THE WORLD OF AI/ML 🤖 AND OPEN SOURCE 💻.
