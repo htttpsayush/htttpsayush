@@ -46,7 +46,7 @@ AI/ML | Open Source | Sports Analytics
 ### <p align="center"> 🖥️ Backend </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,mysql" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/fastapi.svg" height="40"/>
 </p>
 
 ---
