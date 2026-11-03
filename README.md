@@ -68,7 +68,7 @@ AI/ML | Open Source | Sports Analytics
 
 ---
 
-## 🌐 Live Portfolio
+## 🌐 Portfolio
 
 <p align="center">
   <a href="https://ayush-folio.vercel.app/" target="_blank">
